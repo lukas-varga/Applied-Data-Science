@@ -1,0 +1,13 @@
+1.2
+Please enter the event: #biden
+Enter the oldest possible date of tweets. Use format "YYYY-MM-DD": 2021-01-01
+Enter the maximum number of tweets (Empty for no limit): 500
+
+2.3
+Please provide a username to examine his followers: KayCee_313
+Please provide a max number of results (Empty for no limit): 
+
+2.4
+Please provide a username to get his tweets and profiles of followers: KayCee_313
+Please provide a max number of tweets (Empty for no limit): 
+Please provide a max number of profiles (Empty for no limit): 

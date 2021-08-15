@@ -1,0 +1,3 @@
+Number of rows: 54
+Number of words: 498
+Most frequent word: 'the' (44 times)

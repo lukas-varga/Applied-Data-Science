@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<company>
+	<name>ABC</name>
+	<staff id="123">
+		<name>Andy</name>
+		<expense>200</expense>
+	</staff>
+	<staff id="324">
+		<name>Mike</name>
+		<expense>300</expense>
+	</staff>
+	<staff id="567">
+		<name>Chris</name>
+		<expense>400</expense>
+	</staff>
+</company>
