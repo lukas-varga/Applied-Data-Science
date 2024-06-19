@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "applied-data-science"
+version = "0.1.0"
+description = ""
+authors = ["lukas-varga <lukas.varga128@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.2"
+numpy = "^2.0.0"
+scikit-learn = "^1.5.0"
+matplotlib = "^3.9.0"
+scipy = "^1.13.1"
+ipykernel = "^6.29.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
